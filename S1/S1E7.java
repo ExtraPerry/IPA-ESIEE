@@ -1,0 +1,1 @@
+int time = seconds + ( minutes * 60 ) + ( hours * 3600); 		 				  		 				   
